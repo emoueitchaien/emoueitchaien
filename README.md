@@ -1,6 +1,4 @@
 ## Kon'nichiwa! 👋 Watashi wa <a href="https://www.mohanpradhan.com.np">Mohan Pradhan</a> desu!!
-#
-### Below are some of my repositories, I thought, I will show and impress you! 😉
 
 <!--
 **emoueitchaien/emoueitchaien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
