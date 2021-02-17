@@ -1,5 +1,7 @@
 ## Kon'nichiwa! 👋 Watashi wa <a href="https://www.mohanpradhan.com.np">Mohan Pradhan</a> desu!!
 
+<p align="center"> <img src="escr (2).jpeg" alt="eat-sleep-code-repeat"/></p>
+
 <!--
 **emoueitchaien/emoueitchaien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
