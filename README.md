@@ -1,4 +1,4 @@
-## Kon'nichiwa! 👋 Watashi wa <a href="https://www.mohanpradhan.com.np">Mohan Pradhan</a> desu!! 😁 Kaizoku Ou ni, ore wa naru! ☠️
+## Kon'nichiwa! 👋 Watashi wa <a href="https://www.mohanpradhan.com.np">Mohan Pradhan</a> desu!! 😁 Kaizoku Ou ni, Ore wa Naru! ☠️
 
 <p align="center"> <img src="escr.png" alt="eat-sleep-code-repeat"/></p>
 
