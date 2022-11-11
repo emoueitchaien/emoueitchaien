@@ -1,6 +1,6 @@
 ## Kon'nichiwa! 👋 Watashi wa <a href="https://www.mohanpradhan.com.np">Mohan Pradhan</a> desu!! 😁 Kaizoku Ou ni, Ore wa Naru! ☠️
 
-<p align="center"> <img src="escr.png" alt="eat-sleep-code-repeat"/></p>
+<p align="center"> <img src="escr-min.png" alt="eat-sleep-code-repeat"/></p>
 
 <!--
 **emoueitchaien/emoueitchaien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
